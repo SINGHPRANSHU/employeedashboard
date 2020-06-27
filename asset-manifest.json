@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/employeedashboard/static/css/main.5f361e03.chunk.css",
+    "main.js": "/employeedashboard/static/js/main.932f4f76.chunk.js",
+    "main.js.map": "/employeedashboard/static/js/main.932f4f76.chunk.js.map",
+    "runtime-main.js": "/employeedashboard/static/js/runtime-main.a143ba31.js",
+    "runtime-main.js.map": "/employeedashboard/static/js/runtime-main.a143ba31.js.map",
+    "static/js/2.27beb7c6.chunk.js": "/employeedashboard/static/js/2.27beb7c6.chunk.js",
+    "static/js/2.27beb7c6.chunk.js.map": "/employeedashboard/static/js/2.27beb7c6.chunk.js.map",
+    "index.html": "/employeedashboard/index.html",
+    "precache-manifest.196ecefaab3fd934a90ad3affc78a032.js": "/employeedashboard/precache-manifest.196ecefaab3fd934a90ad3affc78a032.js",
+    "service-worker.js": "/employeedashboard/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/employeedashboard/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.27beb7c6.chunk.js.LICENSE.txt": "/employeedashboard/static/js/2.27beb7c6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/employeedashboard/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a143ba31.js",
+    "static/js/2.27beb7c6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.932f4f76.chunk.js"
+  ]
+}
